@@ -1,2 +1,2 @@
 # KotlinArch
-Learning Kotlin Architecture
+Learning Kotlin clean Architecture
